@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Quan Huynh</h1>
-<h3 align="center">Software Engineer | Full-Stack & AI Systems | CS @ George Mason University</h3>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/sparkle-banner.svg" alt="Quan Huynh banner" width="100%" />
+</p>
 <p align="center">
   <a href="https://quan-huynh.com"><img src="https://img.shields.io/badge/Website-quan--huynh.com-blue?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/quanhuynh364"><img src="https://img.shields.io/badge/LinkedIn-quanhuynh364-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
