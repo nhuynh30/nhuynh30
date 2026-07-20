@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/sparkle-banner.svg" alt="Quan Huynh banner" width="100%" />
-</p>
-<p align="center">
-  <a href="https://quan-huynh.com"><img src="https://img.shields.io/badge/Website-quan--huynh.com-blue?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/quanhuynh364"><img src="https://img.shields.io/badge/LinkedIn-quanhuynh364-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:quanhuynh364@gmail.com"><img src="https://img.shields.io/badge/Email-quanhuynh364%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/sparkle-banner.svg" alt="Quan Huynh banner" width="100%" /> </p> <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=18&pause=1200&color=4B5563&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%26+AI+Systems+Builder;AI+Software+Engineer+Intern+%40+Deepiri;CS+%40+George+Mason+University" alt="Typing SVG" /></a> </p> <p align="center"> <a href="https://quan-huynh.com"><img src="https://img.shields.io/badge/Website-quan--huynh.com-blue?style=flat&logo=googlechrome&logoColor=white" /></a> <a href="https://linkedin.com/in/quanhuynh364"><img src="https://img.shields.io/badge/LinkedIn-quanhuynh364-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:quanhuynh364@gmail.com"><img src="https://img.shields.io/badge/Email-quanhuynh364%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> </p> <img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" />
 
 <img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" />
 
@@ -13,7 +6,7 @@
 ### 🚀 About Me
 
 - 🎓 B.S. Computer Science @ **George Mason University**, Expected May 2028 — GPA 3.94/4.0
-- 💼 AI Software Engineer Intern @ **Deepiri (Renderflow Studio Team)**, building AI-assisted video editing tools
+- 💼 AI Software Developer @ **Deepiri (Renderflow Studio Team)**, building AI-assisted video editing tools
 - 🛠️ Software Engineering Project Member @ **George Mason University**, building cloud deployment infra for club projects
 - 🌱 Currently building full-stack apps spanning real-time systems, fintech, and AI-integrated marketplaces
 - 📫 Reach me at **quanhuynh364@gmail.com**
@@ -93,12 +86,4 @@ Full-stack multi-vendor marketplace with separate buyer/seller experiences and i
 - Redis-cached seller payout dashboard and real-time buyer-seller chat with review system
 
 
-<img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" />
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nhuynh30&show_icons=true&theme=default" alt="Quan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhuynh30" alt="Quan's GitHub Streak" />
-</p>
+<img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" /> <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=nhuynh30&show_icons=true&theme=default" alt="Quan's GitHub Stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=nhuynh30" alt="Quan's GitHub Streak" /> </p> <img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" /> <p align="center"> <img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" /> </p>
