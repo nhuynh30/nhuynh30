@@ -7,7 +7,8 @@
   <a href="mailto:quanhuynh364@gmail.com"><img src="https://img.shields.io/badge/Email-quanhuynh364%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" />
+
 
 ### 🚀 About Me
 
@@ -17,7 +18,7 @@
 - 🌱 Currently building full-stack apps spanning real-time systems, fintech, and AI-integrated marketplaces
 - 📫 Reach me at **quanhuynh364@gmail.com**
 
----
+<img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" />
 
 ### 🧰 Tech Stack
 
@@ -68,7 +69,7 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" />
 
 ### 🔭 Featured Projects
 
@@ -92,10 +93,10 @@ Full-stack multi-vendor marketplace with separate buyer/seller experiences and i
 - Redis-cached seller payout dashboard and real-time buyer-seller chat with review system
 
 
----
+<img src="https://raw.githubusercontent.com/nhuynh30/nhuynh30/main/divider.svg" width="100%" height="6" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhuynh30&show_icons=true&theme=default" alt="Quan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nhuynh30&show_icons=true&theme=default" alt="Quan's GitHub Stats" />
 </p>
 
 <p align="center">
