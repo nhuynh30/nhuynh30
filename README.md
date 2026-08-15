@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.S. Computer Science @ **George Mason University**, Expected May 2028 — GPA 3.94/4.0
+- 🎓 B.S. Computer Science @ **George Mason University**, Expected May 2028 — GPA 3.97/4.0
 - 💼 AI Software Developer @ **Deepiri (Renderflow Studio Team)**, building AI-assisted video editing tools
 - 🛠️ Software Engineering Project Member @ **George Mason University**, building cloud deployment infra for club projects
 - 🌱 Currently building full-stack apps spanning real-time systems, fintech, and AI-integrated marketplaces
